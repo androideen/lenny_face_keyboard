@@ -8,6 +8,7 @@ class Category {
 class Categories {
   static List<Category> all() {
     final List<Category> categories = [
+      Category('popular', 'Popular'),
       Category('recent', 'Recently Used'),
       Category('custom', 'User-Defined'),
       Category('happy', 'Happy'),
