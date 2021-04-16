@@ -6,3 +6,5 @@ Flutter App: Lenny Face Keyboard
 - Pre-defined emojis from various categories such as happy, love, sad, etc...
 - Copy emoji with a tap.
 - Define new emoji.
+
+More Flutter templates: https://www.tldevtech.com/flutter-app-templates/
